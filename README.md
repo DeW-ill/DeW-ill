@@ -7,7 +7,8 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dew-ill&label=views&color=0e75b6&style=flat" alt="dew-ill" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dew-ill&label=views&color=0e75b6&style=flat" alt="dew-ill" /> </p>!
+ 
 
 -  I’m currently learning **Javascript review, ReactJs**
 
